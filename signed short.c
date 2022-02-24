@@ -4,7 +4,5 @@ int main()
 {
     signed short a=32769;
     printf("%d",a);
-    
-
     return 0;
-}
+}//output=-32767
